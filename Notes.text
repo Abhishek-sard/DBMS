@@ -1,0 +1,24 @@
+1. introduction of Database system
+Database
+Database system
+objective
+characterstic
+Databasevls flat.file
+Advantage of DBMS
+Application
+Database Design for a university organization
+
+2. Create a Database by using CMD
+ rules
+ 1.path of bin in xammp(mysql)
+ 2.mysql -u root -p
+ 3.SHOW DATABASES;
+ 4.CREATE DATABASE DATA2base_name;
+ 5.USE DATA2base_name;
+ 6.SHOW TABLES;
+ 7.CREATE TABLE BCAclassroom(id INT,name CHARVHAR,);//if we want to add the TABLE
+ 8.fill the data in xampp insert name,id,contact,etc.
+ 9. DESCRIBE DATABASEMYSQL;(it show the table. table name always in capital letter);
+ 10. DESCRIBE YOURSELF;
+ 11. SHOW TABLES;
+ 12. DROP TABLE DATABASEMYSQL(TABLE NAME);
