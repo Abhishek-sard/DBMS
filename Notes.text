@@ -10,7 +10,7 @@ Database Design for a university organization
 
 2. Create a Database by using CMD
  rules
- 1.path of bin in xammp(mysql)
+ 1.cd path of bin in xammp(mysql)
  2.mysql -u root -p
  3.SHOW DATABASES;
  4.CREATE DATABASE DATA2base_name;
